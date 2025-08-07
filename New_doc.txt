@@ -1,22 +1,22 @@
-BANK OF INDIA EQUAL OPPORTUNITY POLICY
+BANK OF XYZ EQUAL OPPORTUNITY POLICY
 
 
-BANK OF INDIA EQUAL OPPORTUNITY POLICY
+BANK OF XYZ EQUAL OPPORTUNITY POLICY
 
 [Under Section 21 of Rights of Persons with Disabilities Act, 2016, Rules, 2017]
 1. Preamble:
 
-1.1 The Constitution of India mandates equality, freedom, justice and dignity of all individuals and implicitly mandates an inclusive society for all including persons with disabilities. With regard to persons with disabilities, it has been the consistent focus of government legislations to ensure that persons with disabilities enjoy equal opportunities for leading a better quality of life.
+1.1 The Constitution of XYZ mandates equality, freedom, justice and dignity of all individuals and implicitly mandates an inclusive society for all including persons with disabilities. With regard to persons with disabilities, it has been the consistent focus of government legislations to ensure that persons with disabilities enjoy equal opportunities for leading a better quality of life.
 
-1.2 The Government of India enacted 'The Rights of Persons with Disabilities Act, 2016' (ACT No.49 of 2016) to give effect to United Nations Convention on the Rights of Persons with Disabilities and for matters connected therewith or incidental thereto. In terms of Section 21 of the 'The Rights of Persons with Disabilities Act, 2016', every establishment is mandated to notify Equal Opportunity Policy detailing measures proposed to be taken by it in pursuance of the provisions of Chapter IV of the Act of 2016 in the manner as prescribed by the Central Government.
+1.2 The Government of XYZ enacted 'The Rights of Persons with Disabilities Act, 2016' (ACT No.49 of 2016) to give effect to United Nations Convention on the Rights of Persons with Disabilities and for matters connected therewith or incidental thereto. In terms of Section 21 of the 'The Rights of Persons with Disabilities Act, 2016', every establishment is mandated to notify Equal Opportunity Policy detailing measures proposed to be taken by it in pursuance of the provisions of Chapter IV of the Act of 2016 in the manner as prescribed by the Central Government.
 
-1.3 Bank of India, (hereafter referred to as the 'Bank') founded on 07th September, 1906 is a leading Public Sector Bank in India, headquartered at Mumbai. The Bank is committed to strict compliance of Government of India instructions as are advised from time to time, for empowerment of persons with disabilities (PWD). It has been the endeavour of the Bank to eliminate any form of discrimination and ensure equality, freedom, justice and dignity to all individuals including persons with disabilities and maintain conducive and harmonious work environment to guarantee that the persons with disabilities enjoy equality, dignity and respect at par with all others. By doing so, the Bank is empowered and better equipped to develop and deliver services to its customers- both internal and external and thus achieve business excellence.
+1.3 Bank of XYZ, (hereafter referred to as the 'Bank') founded on 07th September, 1906 is a leading Public Sector Bank in XYZ, headquartered at Mumbai. The Bank is committed to strict compliance of Government of XYZ instructions as are advised from time to time, for empowerment of persons with disabilities (PWD). It has been the endeavour of the Bank to eliminate any form of discrimination and ensure equality, freedom, justice and dignity to all individuals including persons with disabilities and maintain conducive and harmonious work environment to guarantee that the persons with disabilities enjoy equality, dignity and respect at par with all others. By doing so, the Bank is empowered and better equipped to develop and deliver services to its customers- both internal and external and thus achieve business excellence.
 
-1.4 In compliance of the letter and spirit of the provisions of 'The Rights of Persons with Disabilities Act, 2016 and Rules, 2017, as mandated under Section 21 of the said Act/ Rules, Bank of India, adopted its Equal Opportunity Policy.
+1.4 In compliance of the letter and spirit of the provisions of 'The Rights of Persons with Disabilities Act, 2016 and Rules, 2017, as mandated under Section 21 of the said Act/ Rules, Bank of XYZ, adopted its Equal Opportunity Policy.
 
 1.5 Bank shall not discriminate against any person with disability in any matter relating to employment. It shall ensure an accessible environment and availability of assistive devices and shall put in place proper systems and processes to enable the persons with disabilities to effectively discharge their duties in the Bank.
 
-1.6 The Chief General Manager/ General Manager- Human Resources, Head Office shall be the designated authority with overall responsibility for the effective operation and implementation of the Equal Opportunity Policy. He/ she shall be authorised to lay down/ implement operational guidelines issued by the Government of India for betterment of
+1.6 The Chief General Manager/ General Manager- Human Resources, Head Office shall be the designated authority with overall responsibility for the effective operation and implementation of the Equal Opportunity Policy. He/ she shall be authorised to lay down/ implement operational guidelines issued by the Government of XYZ for betterment of
 
 persons with disabilities as given in 'The Rights of Persons with Disabilities Act, 2016/ Rules.'
 
@@ -113,12 +113,12 @@ In view of the difficulties faced by differently abled or infirm persons (having
 
 Bank's Model Policy on Collection of Cheques / Instruments & Dishonour of Instruments
 1. Introduction:
-Keeping in view the technological progress in payment and settlement systems and the qualitative changes in operational systems and processes that have been undertaken by a number of banks, the Reserve Bank of India had, with effect from 1st November 2004, withdrawn its earlier instructions to commercial banks on (i) Immediate Credit of local / outstation cheques,
+Keeping in view the technological progress in payment and settlement systems and the qualitative changes in operational systems and processes that have been undertaken by a number of banks, the Reserve Bank of XYZ had, with effect from 1st November 2004, withdrawn its earlier instructions to commercial banks on (i) Immediate Credit of local / outstation cheques,
 (ii) Time Frame for Collection of Local / Outstation Instruments and (iii) Interest Payment for Delayed Collection.
 The withdrawal of these mandatory guidelines was expected to enable market forces of competition to come into play to improve efficiencies in collection of cheques and other instruments. This collection policy of the Bank is a reflection of our on-going efforts to provide better service to our customers and set higher standards for performance.
 The policy is based on principles of transparency and fairness in the treatment of customers. The bank is committed to increased use of technology to provide quick collection services to its customers.
 This policy document covers the following aspects -
-* Collection of cheques and other instruments payable at centres within India and abroad.
+* Collection of cheques and other instruments payable at centres within XYZ and abroad.
 * Our commitment regarding time norms for collection of instruments.
 * Policy on payment of interest in cases where the bank fails to meet time norms for realization of proceeds of outstation instruments.
 * Our policy on dealing with collection instruments lost in transit.
@@ -214,7 +214,7 @@ ii) Further, the Bank has right to recover the proceeds of the cheques credited 
 a. As per RBI circular dated 20.06.2019, it has now been decided, to dispense with the current requirement of forwarding the paid State Government Cheques in Physical Form (Commonly known as P2F) to the State Government departments/ treasuries.
 b. In Cheque Truncation System, the 'Drawee Bank' means the dealing branch of a bank accredited to a Ministry/Department/Treasury/Sub-Treasury on which the cheques are drawn. The 'presenting bank' means a branch of any bank where the cheques are presented for payment by the clients. Both the presenting banks and Drawee banks would continue to discharge their duties prescribed under various Acts/Regulations/Rules such as the Negotiable Instruments Act 1881, Bankers' Books Evidence Act 1891, Uniform Regulations and Rules for Bankers' Clearing Houses, Procedural Guidelines for Cheque Truncation System etc. with respect to payment of cheques. The government cheques would henceforth be paid in CTS clearing solely based on their electronic images. The paid cheques in physical form would be retained by the presenting bank.
 c. In case any Drawee bank desires to verify the government cheque in physical form before passing it for payment, the image would be returned unpaid under the reason "present with document". The presenting bank on such instances shall ensure that the instrument is presented again in the next applicable clearing session without any reference to the account holder (payee).
-d. The presenting banks are required to preserve the physical instruments in their custody securely for a period of 10 years as required under Procedural Guidelines for CTS. In cases one specific cheques are required for the purpose of any investigation, enquiry, etc., under the law, they may be preserved beyond 10 years. Drawee banks shall make necessary arrangements to preserve the images of all government cheques for a period of 10 years with themselves or through the National Archival System put in place by National Payments Corporation of India (NPCI).
+d. The presenting banks are required to preserve the physical instruments in their custody securely for a period of 10 years as required under Procedural Guidelines for CTS. In cases one specific cheques are required for the purpose of any investigation, enquiry, etc., under the law, they may be preserved beyond 10 years. Drawee banks shall make necessary arrangements to preserve the images of all government cheques for a period of 10 years with themselves or through the National Archival System put in place by National Payments Corporation of XYZ (NPCI).
 e. The government cheques paid by a drawee bank across its counter by way of cash withdrawal or transfer also need to be truncated and preserved for 10 years. Adequate safeguards shall be built to ensure that these images are captured separately by the drawee banks and not mixed up with the images of the instruments received for payment in clearing. A common electronic file containing the images of all the paid cheques shall be created on a daily basis for onward transmission to State Government Departments/ Treasuries/ Sub-
 Treasuries
 f. The branch handling the State Government transactions shall continue to send the Payment Scrolls on a daily basis in the prescribed form or as per the arrangement amongst the Sub- Treasury / Treasury to whom they are attached as hitherto. However, as the paid cheques would no longer be available with the accredited branch, the same will not be attached with the payment scroll, but the electronic images of paid cheques (by way of cash, clearing and transfer), preserved by the presenting bank, shall be provided to the Office of AG/State Government Departments/Treasuries/Sub-Treasuries by way of secured electronic communication/ e-mail, etc., as per their requirement.
@@ -236,7 +236,7 @@ Major Cities
 10
 Other Locations
 14
-(c) Cheques drawn on foreign countries: Such instruments are accepted for collection on the 'best of efforts' basis. The bank is committed to ensuring that instruments drawn in foreign currencies and payable outside India are collected in the quickest and most efficient manner. Towards this the Bank may enter into specific collection arrangements with its correspondent banks in those countries for speedy collection of such instrument(s). Bank would give credit to the party upon realization credit of proceeds into the bank's NOSTRO Account with the correspondent bank after taking into account cooling periods as applicable to the countries concerned.
+(c) Cheques drawn on foreign countries: Such instruments are accepted for collection on the 'best of efforts' basis. The bank is committed to ensuring that instruments drawn in foreign currencies and payable outside XYZ are collected in the quickest and most efficient manner. Towards this the Bank may enter into specific collection arrangements with its correspondent banks in those countries for speedy collection of such instrument(s). Bank would give credit to the party upon realization credit of proceeds into the bank's NOSTRO Account with the correspondent bank after taking into account cooling periods as applicable to the countries concerned.
 5. Immediate Credit of Outstation Cheques / Instruments:
 Branches / extension counters of the bank will consider providing immediate credit for outstation cheques / instruments up to the aggregate value of Rs.15000/-tendered for collection by individual account holder subject to satisfactory conduct of such account for a period not less than 6 months. Immediate credit will be provided against such collection instruments to the customer account. The credit given under this facility should not exceed Rs.15000/- per customer at any given point of time. The facility of immediate credit would also be made available in respect of local cheques at centres where no formal clearing house exists.
 
@@ -275,7 +275,7 @@ c) The bank would also compensate the customer for any reasonable charges he/she
 9.2 If the proceeds of the cheque were credited to the Savings Bank Account and was not withdrawn, the amount so credited will not qualify for payment of interest when the cheque is returned unpaid. If proceeds were credited to an overdraft / cash credit / loan account, interest shall be recovered at the rate of 2% above the interest rate applicable to the clean overdraft / loan from the date of credit to the date of reversal of the entry to the extent the bank was out of funds.
 10. Positive Pay System (PPS)
 
-10.1 Following the Reserve Bank of India Notification no. RBI: 2020-21:41 DPSS.CO. RPPD.No.309:04.07.005:2020-21 dated September 25, 2020 to eliminate / combat cheque related frauds by reconfirming key details of large value cheques, Centralised Positive Pay System (CPPS) for cheques of Rs.50,000/- and above for CTS has been implemented, effective from 01st January, 2021.
+10.1 Following the Reserve Bank of XYZ Notification no. RBI: 2020-21:41 DPSS.CO. RPPD.No.309:04.07.005:2020-21 dated September 25, 2020 to eliminate / combat cheque related frauds by reconfirming key details of large value cheques, Centralised Positive Pay System (CPPS) for cheques of Rs.50,000/- and above for CTS has been implemented, effective from 01st January, 2021.
 10.2 Further, to augment customer safety in cheque payments and reduce instances of fraud occurring on account of tampering of cheque leaves, Bank has decided to make Positive Pay System (PPS) as mandatory for cheques of Rs.5,00,000/- and above for CTS w.e.f 01st January, 2022. i.e. if issuer of the cheque does not provide cheque details under PPS for cheque of Rs.5,00,000/- and above for CTS , then his/her cheque shall be returned under reason code "70" with reason "Advice not Received".
 Circular letter and Standard Operating Procedure (SOP) regarding details procedure / user guidelines on Positive Pay System (PPS) for Cheque Truncation System (CTS) has been circulated vide BC.2021-22/143 dated December 20, 2021.
 11. Miscellaneous:
@@ -295,7 +295,7 @@ With effect from April 1, 2012, the validity of Cheques / Drafts / Banker's Cheq
 For all collection services the bank will recover appropriate service charges as decided by the bank from time to time and communicated to customer as indicated in the code of Bank's Commitment to Customers adopted by the bank and by displaying on Bank's website.
 
 DISHONOUR OF CHEQUES & DEBIT MANDATES
-14. Introduction: Reserve Bank of India vide Circular No. DBOD.BC.Leg. No. 113/ 09.12.001/ 2002-03 dated June 26, 2003 has circulated detailed guidelines on dishonour of cheques and procedure thereof to deal with incidents of frequent dishonour of cheques of value of Rs. One Crore and above.
+14. Introduction: Reserve Bank of XYZ vide Circular No. DBOD.BC.Leg. No. 113/ 09.12.001/ 2002-03 dated June 26, 2003 has circulated detailed guidelines on dishonour of cheques and procedure thereof to deal with incidents of frequent dishonour of cheques of value of Rs. One Crore and above.
 RBI vide Circular No. RBI/2009-10/2013 DBOD.No.Leg.BC.59/09.07.005/2009-10 dated November 09, 2009 advised banks to have Bank's own approach and a Board Approved Policy for dealing with frequent dishonour of cheques of value of less than Rs. One Crore and matters related to frequent dishonour of ECS mandates.
 RBI vide their Circular No. RBI/ 2016-17/33 DBOD.No.Leg.BC.3/09.07.005/ 2016-17 dated August 04, 2016 has reviewed and modified the guidelines on dishonour of cheque and procedure thereof to deal with the cheques of value of Rs. One Crore and Above and granted discretion to the banks to determine response on dishonour of cheque through a Bank's Policy approved by the Board or its Committee taking into consideration the need to prevent misuse of the cheque drawing facility and avoid penalising customers for unintended dishonour of cheques.
 15. Objective: The objective of this policy is to frame the guidelines, procedures and monitoring system on dishonour of cheques and ECS debit mandates to ensure financial discipline among the customers and also avoid hardship to customers for unintended dishonour of cheques and ECS mandate
@@ -732,9 +732,9 @@ Code of Conduct & Ethics and Conflict of Interest Recognition & Management Polic
 
 1. Preamble
 
-1.1 Bank of India is committed to conduct its business in accordance with the highest ethical standards, in order to merit and maintain the complete confidence and trust of all our stakeholders - customers, investors, staff members, communities, public and others we deal with.
-1.2 The employees of the Bank are expected to conduct their personal affairs and manage their business transactions in a manner that does not result in adverse comments or criticism from its stakeholders, or in any way damage the Bank's reputation as a responsible financial services organization. The laid down quality policy of Bank of India envisages its commitment to becoming the 'Bank of Choice' by providing superior, pro-active, innovative and state-of- the-art Banking services with an attitude of care and concern for the customers and its patrons.
-1.3 This policy titled as 'Bank of India Code of Conduct & Ethics and Conflict of Interest Recognition & Management Policy' (henceforth to be referred to as the Code) addresses both business and social relationships, which may present legal and ethical concerns, and also sets forth a Code of Conduct to guide all the staff members. It articulates the boundaries of behavior as well as expectations for behaviour. When each employee clearly knows the ethical standards of the Bank, they are more likely to recognize wrongdoing. Miscreants are often hesitant to commit an unethical act if they believe that everyone else around them knows it is wrong. Good ethics code focus employees on actions that result in doing the right things for the right reasons.
+1.1 Bank of XYZ is committed to conduct its business in accordance with the highest ethical standards, in order to merit and maintain the complete confidence and trust of all our stakeholders - customers, investors, staff members, communities, public and others we deal with.
+1.2 The employees of the Bank are expected to conduct their personal affairs and manage their business transactions in a manner that does not result in adverse comments or criticism from its stakeholders, or in any way damage the Bank's reputation as a responsible financial services organization. The laid down quality policy of Bank of XYZ envisages its commitment to becoming the 'Bank of Choice' by providing superior, pro-active, innovative and state-of- the-art Banking services with an attitude of care and concern for the customers and its patrons.
+1.3 This policy titled as 'Bank of XYZ Code of Conduct & Ethics and Conflict of Interest Recognition & Management Policy' (henceforth to be referred to as the Code) addresses both business and social relationships, which may present legal and ethical concerns, and also sets forth a Code of Conduct to guide all the staff members. It articulates the boundaries of behavior as well as expectations for behaviour. When each employee clearly knows the ethical standards of the Bank, they are more likely to recognize wrongdoing. Miscreants are often hesitant to commit an unethical act if they believe that everyone else around them knows it is wrong. Good ethics code focus employees on actions that result in doing the right things for the right reasons.
 
 2. Philosophy of the Code
 2.1 The philosophy behind introducing this Code is to make ethical behavior a habit whereby employees continuously test their actions against expected standards. Repeated over time this kind of habit becomes inculcated in the individual and ingrained in the culture of an organization.
@@ -747,7 +747,7 @@ Code of Conduct & Ethics and Conflict of Interest Recognition & Management Polic
 
 3. General Nature, Applicability & Administration of the Code
 
-3.1 The Code is applicable to all the Bank employees and Directors. Even probationers, consultants, agents, third party whose services Bank has solicited, will also undertake to comply with the Code as part of their business relationship with the Bank. The Code shall come into force with effect from the date of approval by the Board of Directors of Bank of India.
+3.1 The Code is applicable to all the Bank employees and Directors. Even probationers, consultants, agents, third party whose services Bank has solicited, will also undertake to comply with the Code as part of their business relationship with the Bank. The Code shall come into force with effect from the date of approval by the Board of Directors of Bank of XYZ.
 3.2 If any part of this Code conflicts with applicable law, the law will prevail. If any part of this Code is deemed invalid, the validity and enforceability of its other parts & provisions shall not be affected. The Bank reserves the right to interpret the Code at its sole discretion. The guidelines, policies and rules mentioned in this Code and their content may be amended or modified from time to time, in the normal course of business, as deemed necessary and appropriate.
 3.3 The rules of conduct set out in the Code are not exhaustive; they serve to complete the corporate guidelines, policies, permanent instructions, procedures and other standards governing our conduct and with which we must comply at all times.
 3.4 The Code does not replace other provisions and obligations otherwise applicable under the law.
@@ -757,7 +757,7 @@ Code of Conduct & Ethics and Conflict of Interest Recognition & Management Polic
 4.1 It is the responsibility of each Director and Staff Member to be familiar with the Code. The supervising staff are expected to make every reasonable effort to ensure that their subordinate staffs continue to comply with the provisions of the Code.
 4.2 Senior management shall implement the Code, and determine matters of interpretation. Monitoring of adherence to the Code shall be accomplished by audit, examination, and human resource procedures.
 4.3 Staff members are encouraged to seek the advice of the appropriate supervisor regarding questions of interpretation, and of the applicability of the provisions of the Code to a particular situation.
-4.4 Any violation or suspected violation of this Code may warrant appropriate corrective action including disciplinary action under Bank of India Officer Employees' (Discipline & Appeal) Regulations, 1976 & Bipartite Settlement dated 11.11.2020 amended up to date.
+4.4 Any violation or suspected violation of this Code may warrant appropriate corrective action including disciplinary action under Bank of XYZ Officer Employees' (Discipline & Appeal) Regulations, 1976 & Bipartite Settlement dated 11.11.2020 amended up to date.
 4.5 It is the responsibility of the Bank to ensure that all employees are made aware of the Code. The Bank shall ensure availability of adequate resources and support to promote better understanding of the Code. Any changes to the Code will be circulated to all employees in a timely manner.
 5. Observance of the Code
 All Employees are required to affirm their having read and understood the Code and confirm to abide by it by signing a Declaration (Annexure I), to be submitted through HRMS, which shall be deemed to be binding on the signee.
@@ -891,7 +891,7 @@ To adhere to the highest standards of honest and ethical conduct, including prop
 
 14.3 An occasional gift which is infrequent and is of limited value and is unlikely to lead someone to feel obligated or influenced by them may be accepted, although employees are encouraged to share the gift baskets with other employees in their department.
 
-14.4 Employees should be governed by the Bank of India Officer Employees' (Conduct) Regulations, 1976 and related guidelines applicable to employees as they refrain from accepting or giving any favor, gift, entertainment or any other benefit subject to certain conditions.
+14.4 Employees should be governed by the Bank of XYZ Officer Employees' (Conduct) Regulations, 1976 and related guidelines applicable to employees as they refrain from accepting or giving any favor, gift, entertainment or any other benefit subject to certain conditions.
 
 15. Corruption and Anti-Money Laundering
 
@@ -902,26 +902,16 @@ To adhere to the highest standards of honest and ethical conduct, including prop
 16. Product Appropriateness & Suitability
 
 We must know and understand Bank's customers' needs and financial situation and accordingly inform them about Bank's products and services that are best suited to their needs, regardless of Bank's sales targets. Employees must ensure that product recommendation is well suited to the needs and means of the customer in view of the customer's objectives, degree of financial knowledge and sophistication, the level of acceptable risk and other factors made known to the Bank. They should not mis-sell products, conceal or willfully withhold details, product features and risks pertaining to products being offered by the Bank.
-
 17. Assets and Resource Usage
-
 All employees shall protect and ensure efficient use of Bank's assets including but not limited to the result of an employee's work, money and funds, Information about corporate or customer transactions, Intellectual Property, proprietary information, equipment, computer systems and software, furnishings etc.
-
 18. Intellectual Property
-
 All assets / propriety developed by the employee during the course of employment with the Bank shall belong exclusively to the Bank and ownership of copyrights of such assets and those of any derivative assets lies with the Bank. We must use Bank's name, trademark and any other form of its intellectual property exclusively for business purposes in accordance with the applicable rules in this regard.
-
-
-
 19. Reporting Violations via Whistle Blower Policy
-
 19.1 The Bank encourages an open door policy and suggests that employees share their questions, concerns, suggestions or complaints with someone who can address them properly. In most cases, an employee's superior is in the best position to address an area of concern.
 19.2 Any violations or suspected violations or of events that could lead to any such violations perceived violation of the Code may be reported under Bank's Whistleblower Policy without fear or reprisal or being threatened by doing so. Anyone filing a complaint must be acting in good faith and have reasonable grounds for believing the information disclosed indicates a violation.
 19.3 All concerns raised by the employee must be treated promptly, fairly and discreetly without being disadvantaged or victimised for raising good faith concerns.
 19.4 Violations or suspected violations may be submitted on a confidential basis or may be submitted anonymously.
-
 20. Employee Conduct
-
 20.1 Employees should ensure accuracy of Bank's operations and financial records that they are aware of within the framework of their duties. These include not only financial accounts, but other records such as quality reports, time records, expense reports and submissions such as benefit claim forms. Employees must report their claims/ expenses such as conveyance, transportation, halting, reimbursement claims, Bank's car etc accurately and in a timely manner.
 20.2 Employees should maintain good conduct, discipline, punctuality and show courtesy and attention to all persons - colleagues, customers, business associates & vendors, regulators, and any other external stakeholders, in their transactions or dealings with the Bank.
 20.3 Employees should ensure that they are appropriately dressed and properly groomed at all times.
@@ -930,17 +920,10 @@ All assets / propriety developed by the employee during the course of employment
 employees.
 20.7 The behavior of employees must reflect sincerity and willingness to learn from their mistakes and ability to view failures as feedback that provides them with the information they need to learn, grow and succeed.
 20.8 Each employee must accept responsibility for their actions.
-
-
 21. Public Representation
 Employees should refrain from any direct interaction with the media, press and financial community, unless otherwise authorized to do so.
-
-
-
 22. Environmental considerations
 Employees are expected to incorporate environmental, health and safety considerations into their daily activities.
-
-
 23. Audit & Investigation
 Employees must cooperate with any internal or external investigation or audit, or any regulatory examination. If at any time, the employee is involved in any legal/administrative/quasi-judicial proceeding(s), they should immediately inform the competent authority, with relevant supporting documents and a brief summary of the proceedings.
 
@@ -950,7 +933,7 @@ Employees must cooperate with any internal or external investigation or audit, o
 
 25. Any violation of this Code is liable to attract disciplinary action
 
- An employee who violates this Code will become liable for prompt corrective action including appropriate disciplinary action depending on the nature, severity, and frequency of the violation. Staff Officers of the Bank are governed by the Bank of India Officer Employees' (Conduct) Regulations, 1976 and the Award Staff members by the disciplinary action procedure laid down in the Bipartite Settlement dated 11.11.2020 amended up to date.
+ An employee who violates this Code will become liable for prompt corrective action including appropriate disciplinary action depending on the nature, severity, and frequency of the violation. Staff Officers of the Bank are governed by the Bank of XYZ Officer Employees' (Conduct) Regulations, 1976 and the Award Staff members by the disciplinary action procedure laid down in the Bipartite Settlement dated 11.11.2020 amended up to date.
 
 26. Review of the Policy :
 
@@ -981,28 +964,28 @@ P.F.No :
 
 Date:	
 
-BANK OF INDIA PREVENTION OF SEXUAL HARASSMENT AT WORKPLACE POLICY
+BANK OF XYZ PREVENTION OF SEXUAL HARASSMENT AT WORKPLACE POLICY
 Classification: Internal
 
 
-BANK OF INDIA PREVENTION OF SEXUAL HARASSMENT AT WORKPLACE POLICY
+BANK OF XYZ PREVENTION OF SEXUAL HARASSMENT AT WORKPLACE POLICY
 
 1. PREAMBLE
 
-1.1. Equality of every person under the law is guaranteed by Article 14 of the Indian Constitution. A safe workplace is a woman's legal right and sexual harassment constitutes a gross violation of women's right to equality and dignity. Often, it is excused as harmless and trivial, Contrary to these perceptions, it causes serious harm and is also a strong manifestation of sex discrimination at the workplace. This leads to poor productivity and a negative impact on lives and livelihoods.
+1.1. Equality of every person under the law is guaranteed by Article 14 of the XYZn Constitution. A safe workplace is a woman's legal right and sexual harassment constitutes a gross violation of women's right to equality and dignity. Often, it is excused as harmless and trivial, Contrary to these perceptions, it causes serious harm and is also a strong manifestation of sex discrimination at the workplace. This leads to poor productivity and a negative impact on lives and livelihoods.
 
 1.2. Though sexual harassment at the workplace has assumed serious proportions, women usually do not report the matter to the concerned authorities in most cases due to fear of reprisal from the harasser, losing one's livelihood, being stigmatized, or losing professional standing and personal reputation.
 
-1.3. The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 (herein after called as the "Act) has come into force and same has been published in the Gazette of India, Extraordinary, Part-II, Section-1, dated the 23rd April 2013 as Act No. 14 of 2013. The act was amended and published in the Gazette of India, Extraordinary, Part-II, Section-1, dated the 9th May 2016. Accordingly, while the policy is made in alignment with the Act and covers all the key aspects of the Act, for any further clarification reference shall always be made to the Act and the provisions of the Act shall prevail.
+1.3. The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 (herein after called as the "Act) has come into force and same has been published in the Gazette of XYZ, Extraordinary, Part-II, Section-1, dated the 23rd April 2013 as Act No. 14 of 2013. The act was amended and published in the Gazette of XYZ, Extraordinary, Part-II, Section-1, dated the 9th May 2016. Accordingly, while the policy is made in alignment with the Act and covers all the key aspects of the Act, for any further clarification reference shall always be made to the Act and the provisions of the Act shall prevail.
 
 1.4. The Act was enacted to ensure safe working spaces for women and to build work environments that respect women's right to equality of status and opportunity. Very often situations that start off innocently, end up in inappropriate and unprofessional behaviours. It is important to remember that workplace sexual harassment is sexual, unwelcome and the experience is subjective. It is the impact and not the intent that matters and it almost always occurs in a matrix of power.
 
-1.5. Bank of India, (hereafter referred to as the 'Bank') founded on 07th September, 1906 is a leading Public Sector Bank in India, headquartered at Mumbai. The Bank is committed to strict compliance of Government of India instructions as advised from time to time, for empowerment of its employees. It has been the endeavour of the Bank to eliminate any form of discrimination and ensure equality, freedom, justice and dignity to all its employees. The employment decisions are made without regard to sex or gender or any other basis prohibited by law. Banks strives to provide conducive and harmonious work environment to guarantee that all employees enjoy equality, dignity and respect at par with others. By doing so, the Bank is empowered and better equipped to develop and deliver services to its customers - both internal and external and thus achieve business excellence.
+1.5. Bank of XYZ, (hereafter referred to as the 'Bank') founded on 07th September, 1906 is a leading Public Sector Bank in XYZ, headquartered at Mumbai. The Bank is committed to strict compliance of Government of XYZ instructions as advised from time to time, for empowerment of its employees. It has been the endeavour of the Bank to eliminate any form of discrimination and ensure equality, freedom, justice and dignity to all its employees. The employment decisions are made without regard to sex or gender or any other basis prohibited by law. Banks strives to provide conducive and harmonious work environment to guarantee that all employees enjoy equality, dignity and respect at par with others. By doing so, the Bank is empowered and better equipped to develop and deliver services to its customers - both internal and external and thus achieve business excellence.
 
-1.6. The Chief General Manager / General Manager- Human Resources, Head Office shall be the designated authority with overall responsibility for the effective operation and implementation of this Policy. He / she shall be authorised to lay down / implement operational guidelines issued by the Government of India for betterment of employees as advised from time to time.
+1.6. The Chief General Manager / General Manager- Human Resources, Head Office shall be the designated authority with overall responsibility for the effective operation and implementation of this Policy. He / she shall be authorised to lay down / implement operational guidelines issued by the Government of XYZ for betterment of employees as advised from time to time.
 
 
-1.7. It shall be the responsibility of every employee of the Bank to implement this policy. All employees, besides exhibiting behaviour which is beyond reproach, have a particular obligation to ensure appropriate behaviour at all times, towards women; promote this Policy; handle all such complaints seriously and attend to them promptly; monitor the work environment and seek expert help for complex or serious matters. Any employee who violates this Policy, or in any manner commits any act of harassment which is in violation to this policy shall be construed as having committed an act of misconduct liable to be dealt with as per Bipartite Settlements and the Bank of India Officer Employees' (Discipline & Appeal) Regulations, 1976.
+1.7. It shall be the responsibility of every employee of the Bank to implement this policy. All employees, besides exhibiting behaviour which is beyond reproach, have a particular obligation to ensure appropriate behaviour at all times, towards women; promote this Policy; handle all such complaints seriously and attend to them promptly; monitor the work environment and seek expert help for complex or serious matters. Any employee who violates this Policy, or in any manner commits any act of harassment which is in violation to this policy shall be construed as having committed an act of misconduct liable to be dealt with as per Bipartite Settlements and the Bank of XYZ Officer Employees' (Discipline & Appeal) Regulations, 1976.
 
 
 2. SCOPE
@@ -1129,7 +1112,7 @@ circumstances which prevented the aggrieved women from filing the complaint with
 
 5.5. An aggrieved woman may submit the complaint addressing the same to Presiding Officer, Internal Committee. The complainant shall submit the complaint in writing along with the supporting documents, names and addresses of the witness/es in support of her complaint. Nodal Officer should guide the complainant in that regard. A Specimen format for submitting the complaint is attached as Annexure V.
 
-5.6. Bank shall provide assistance to the aggrieved woman if she so chooses to file a complaint in relation to the offence under the Indian Penal Code (45 of 1860) or any other law for the time being in force.
+5.6. Bank shall provide assistance to the aggrieved woman if she so chooses to file a complaint in relation to the offence under the XYZn Penal Code (45 of 1860) or any other law for the time being in force.
 
 5.7. Bank shall also cause to initiate action, against the perpetrator, or if the aggrieved woman so desires, where the perpetrator is not an employee, in the workplace at which the incident of sexual harassment took place.
 
@@ -1180,7 +1163,7 @@ circumstances which prevented the aggrieved women from filing the complaint with
 
 7.7. Resolution procedure through formal inquiry
 7.7.1. While conducting inquiry, minimum three members of the Internal Committee, including Presiding Officer as the case may be, should be present. The Internal Committee shall, where the respondent is an employee, proceed to make inquiry into the complaint in accordance with the provisions of the service rules applicable to the respondent.
-7.7.2. If the respondent is not an employee of our Bank, and if prima facie case exist, IC should proceed to make inquiry into the complaint and request for cooperation of the respondent; if respondent is not cooperating in the inquiry proceedings, request to be made to his employer or business partners / colleagues for cooperation of the respondent; and if necessary forward the complaint to the police, immediately for registering the case under section 509 of the Indian Penal Code (45 of 1860), and any other relevant provisions of the said Code where applicable, in consultation with Legal Department of concerned office. Necessary assistance may be extended to the aggrieved women if she chooses to file police complaint.
+7.7.2. If the respondent is not an employee of our Bank, and if prima facie case exist, IC should proceed to make inquiry into the complaint and request for cooperation of the respondent; if respondent is not cooperating in the inquiry proceedings, request to be made to his employer or business partners / colleagues for cooperation of the respondent; and if necessary forward the complaint to the police, immediately for registering the case under section 509 of the XYZn Penal Code (45 of 1860), and any other relevant provisions of the said Code where applicable, in consultation with Legal Department of concerned office. Necessary assistance may be extended to the aggrieved women if she chooses to file police complaint.
 7.7.3. The Internal Committee is required to complete the inquiry within a time period of 90 days and a final report submitted to the concerned office within ten days thereafter. The concerned office as detailed in Point No. 7.6.4 is obliged to act on the recommendations within 60 days. The report should be sent to the employer / business partners / police as the case may be in cases where the respondent is not an employee of the Bank to take the appropriate action as per the Act. The parties shall during the course of inquiry, be given an opportunity of being heard and a copy of the findings shall be made available to both the parties enabling them to make representation against the findings before the Committee.
 7.7.4. For the purpose of conducting enquiry the "Internal Committee" are vested with the same powers, as that of Civil Court under the Code of Civil Procedure, 1908 while trying a suit in respect of the following -
 7.7.4.1. summoning and enforcing the attendance of any person and examining him on oath;
@@ -1229,7 +1212,7 @@ circumstances which prevented the aggrieved women from filing the complaint with
 
 9.1. The contents of the complaint, the identity and addresses of the aggrieved woman, respondent and witnesses, any information relating to conciliation and inquiry proceedings, recommendations of the Internal Committee, and the action taken by the Bank under the provisions of the Act shall not be published, communicated or made known to the public, press and media in any manner or under any act even including under Right to Information (RTI) Act, 2005 or court of law until and unless there is a specific order from the court concerned.
 
-9.2. If any information is required to be provided to the court or to any judicial authority or any Commission established under provisions of Constitution of India or the police/CBI authorities such information shall be given in sealed Cover under proper acknowledgement.
+9.2. If any information is required to be provided to the court or to any judicial authority or any Commission established under provisions of Constitution of XYZ or the police/CBI authorities such information shall be given in sealed Cover under proper acknowledgement.
 
 9.3. The information may be disseminated regarding the justice secured to any victim of sexual harassment under this Act without disclosing the name, address, identity or any other particulars calculated to lead to the identification of the aggrieved woman and witnesses.
 
@@ -1370,7 +1353,7 @@ General Manager (HR)
 
 
 In all other cases where the provisions of Service rules are applicable
-Authorities will be as per the Bipartite Settlements and the Bank of India Officer Employees' (Discipline and Appeal) Regulations, 1976, as the
+Authorities will be as per the Bipartite Settlements and the Bank of XYZ Officer Employees' (Discipline and Appeal) Regulations, 1976, as the
 case may be
 
 
