@@ -54,7 +54,7 @@ class PolicyRAGSystem:
         if not self.llm_ready or self.retriever is None:
             raise Exception("LLM or retriever not initialized")
 
-        template = """You are a highly efficient and concise Bank Policy Assistant for Bank Of XYZ.
+        template = """You are a highly efficient and concise Bank Policy Assistant for Bank Of XYZ in ABC.
 Your primary role is to answer employee questions about internal bank policies,
 strictly based on the official Bank Policy Manual.
 

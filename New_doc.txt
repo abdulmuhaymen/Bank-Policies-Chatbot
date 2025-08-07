@@ -10,7 +10,7 @@ BANK OF XYZ EQUAL OPPORTUNITY POLICY
 
 1.2 The Government of XYZ enacted 'The Rights of Persons with Disabilities Act, 2016' (ACT No.49 of 2016) to give effect to United Nations Convention on the Rights of Persons with Disabilities and for matters connected therewith or incidental thereto. In terms of Section 21 of the 'The Rights of Persons with Disabilities Act, 2016', every establishment is mandated to notify Equal Opportunity Policy detailing measures proposed to be taken by it in pursuance of the provisions of Chapter IV of the Act of 2016 in the manner as prescribed by the Central Government.
 
-1.3 Bank of XYZ, (hereafter referred to as the 'Bank') founded on 07th September, 1906 is a leading Public Sector Bank in XYZ, headquartered at Mumbai. The Bank is committed to strict compliance of Government of XYZ instructions as are advised from time to time, for empowerment of persons with disabilities (PWD). It has been the endeavour of the Bank to eliminate any form of discrimination and ensure equality, freedom, justice and dignity to all individuals including persons with disabilities and maintain conducive and harmonious work environment to guarantee that the persons with disabilities enjoy equality, dignity and respect at par with all others. By doing so, the Bank is empowered and better equipped to develop and deliver services to its customers- both internal and external and thus achieve business excellence.
+1.3 Bank of XYZ, (hereafter referred to as the 'Bank') founded on 07th September, 1906 is a leading Public Sector Bank in XYZ, headquartered at ABC. The Bank is committed to strict compliance of Government of XYZ instructions as are advised from time to time, for empowerment of persons with disabilities (PWD). It has been the endeavour of the Bank to eliminate any form of discrimination and ensure equality, freedom, justice and dignity to all individuals including persons with disabilities and maintain conducive and harmonious work environment to guarantee that the persons with disabilities enjoy equality, dignity and respect at par with all others. By doing so, the Bank is empowered and better equipped to develop and deliver services to its customers- both internal and external and thus achieve business excellence.
 
 1.4 In compliance of the letter and spirit of the provisions of 'The Rights of Persons with Disabilities Act, 2016 and Rules, 2017, as mandated under Section 21 of the said Act/ Rules, Bank of XYZ, adopted its Equal Opportunity Policy.
 
@@ -168,21 +168,21 @@ It shall be the duty of the bank who receives payment based on an electronic ima
   To ensure that physical feel of the instrument meets the usual paper standard used for cheque.
   To ensure that no material alteration visible to naked eye
 3.2.2 Our Branches issue only Payable at Par CTS Standard 2010 cheques to Customers
-3.3.3 Cheque Truncation System (CTS) is presently working at New Delhi Grid at Delhi, Chennai Grid in Chennai and Mumbai Grid in Mumbai.
+3.3.3 Cheque Truncation System (CTS) is presently working at ABC Grid at Delhi, ABC Grid in ABC and ABC Grid in ABC.
 3.3.4 States covered in GRID based CTS-2010 centers:
 
 Grid
 Location
 States Covered
 Northern Grid
-New Delhi
-NCR of New Delhi, Haryana, Punjab, Uttar Pradesh , Uttarkhand, Bihar, Rajasthan, Himachal Pradesh, Jharkhand ,Union Territory of Jammu and Kashmir, Union Territory of Ladakh, and the Union Territory of Chandigarh
+ABC
+NCR of ABC, Haryana, Punjab, Uttar Pradesh , Uttarkhand, Bihar, Rajasthan, Himachal Pradesh, Jharkhand ,Union Territory of Jammu and Kashmir, Union Territory of Ladakh, and the Union Territory of Chandigarh
 Southern Grid
-Chennai
+ABC
 Andhra	Pradesh,	Telangana,	Karnataka,	Kerala, Tamilnadu, Odisha, West Bengal, North Eastern States,
 and the Union Territory of Puducherry.
 Western Grid
-Mumbai
+ABC
 Maharashtra,	Goa,	Gujarat,	Madhya	Pradesh	and Chhattisgarh.
 3.4 Non-CTS cheques
 Non CTS cheques will be presented in the clearing house at the prescribed intervals which is presently once in a month on second Wednesday of the month or as decided by RBI, from time to time. In certain categories of cheques, (subject to amendments in guidelines) or instruments demanded by the correspondent Bank or Image Quality Assessment (IQA) failure will be presented in physical form to the drawee Bank.
@@ -980,7 +980,7 @@ BANK OF XYZ PREVENTION OF SEXUAL HARASSMENT AT WORKPLACE POLICY
 
 1.4. The Act was enacted to ensure safe working spaces for women and to build work environments that respect women's right to equality of status and opportunity. Very often situations that start off innocently, end up in inappropriate and unprofessional behaviours. It is important to remember that workplace sexual harassment is sexual, unwelcome and the experience is subjective. It is the impact and not the intent that matters and it almost always occurs in a matrix of power.
 
-1.5. Bank of XYZ, (hereafter referred to as the 'Bank') founded on 07th September, 1906 is a leading Public Sector Bank in XYZ, headquartered at Mumbai. The Bank is committed to strict compliance of Government of XYZ instructions as advised from time to time, for empowerment of its employees. It has been the endeavour of the Bank to eliminate any form of discrimination and ensure equality, freedom, justice and dignity to all its employees. The employment decisions are made without regard to sex or gender or any other basis prohibited by law. Banks strives to provide conducive and harmonious work environment to guarantee that all employees enjoy equality, dignity and respect at par with others. By doing so, the Bank is empowered and better equipped to develop and deliver services to its customers - both internal and external and thus achieve business excellence.
+1.5. Bank of XYZ, (hereafter referred to as the 'Bank') founded on 07th September, 1906 is a leading Public Sector Bank in XYZ, headquartered at ABC. The Bank is committed to strict compliance of Government of XYZ instructions as advised from time to time, for empowerment of its employees. It has been the endeavour of the Bank to eliminate any form of discrimination and ensure equality, freedom, justice and dignity to all its employees. The employment decisions are made without regard to sex or gender or any other basis prohibited by law. Banks strives to provide conducive and harmonious work environment to guarantee that all employees enjoy equality, dignity and respect at par with others. By doing so, the Bank is empowered and better equipped to develop and deliver services to its customers - both internal and external and thus achieve business excellence.
 
 1.6. The Chief General Manager / General Manager- Human Resources, Head Office shall be the designated authority with overall responsibility for the effective operation and implementation of this Policy. He / she shall be authorised to lay down / implement operational guidelines issued by the Government of XYZ for betterment of employees as advised from time to time.
 
