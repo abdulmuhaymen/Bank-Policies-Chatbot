@@ -10,7 +10,7 @@ BANK OF XYZ EQUAL OPPORTUNITY POLICY
 
 1.2 The Government of XYZ enacted 'The Rights of Persons with Disabilities Act, 2016' (ACT No.49 of 2016) to give effect to United Nations Convention on the Rights of Persons with Disabilities and for matters connected therewith or incidental thereto. In terms of Section 21 of the 'The Rights of Persons with Disabilities Act, 2016', every establishment is mandated to notify Equal Opportunity Policy detailing measures proposed to be taken by it in pursuance of the provisions of Chapter IV of the Act of 2016 in the manner as prescribed by the Central Government.
 
-1.3 Bank of XYZ, (hereafter referred to as the 'Bank') founded on 07th September, 1906 is a leading Public Sector Bank in XYZ, headquartered at ABC. The Bank is committed to strict compliance of Government of XYZ instructions as are advised from time to time, for empowerment of persons with disabilities (PWD). It has been the endeavour of the Bank to eliminate any form of discrimination and ensure equality, freedom, justice and dignity to all individuals including persons with disabilities and maintain conducive and harmonious work environment to guarantee that the persons with disabilities enjoy equality, dignity and respect at par with all others. By doing so, the Bank is empowered and better equipped to develop and deliver services to its customers- both internal and external and thus achieve business excellence.
+1.3 Bank of XYZ, (hereafter referred to as the 'Bank') founded on 07th September, 1906 is a leading Public Sector Bank in XYZ, headquartered at XYZ. The Bank is committed to strict compliance of Government of XYZ instructions as are advised from time to time, for empowerment of persons with disabilities (PWD). It has been the endeavour of the Bank to eliminate any form of discrimination and ensure equality, freedom, justice and dignity to all individuals including persons with disabilities and maintain conducive and harmonious work environment to guarantee that the persons with disabilities enjoy equality, dignity and respect at par with all others. By doing so, the Bank is empowered and better equipped to develop and deliver services to its customers- both internal and external and thus achieve business excellence.
 
 1.4 In compliance of the letter and spirit of the provisions of 'The Rights of Persons with Disabilities Act, 2016 and Rules, 2017, as mandated under Section 21 of the said Act/ Rules, Bank of XYZ, adopted its Equal Opportunity Policy.
 
@@ -130,12 +130,6 @@ This policy document covers the following aspects -
 3. Arrangements for Collection:
 3.1. Local Cheques
 (a). All CTS Compliant Cheques and other Negotiable Instruments which are payable under a grid system will be presented through the clearing system prevailing at the centre. Cheques deposited at branch counters and in collection boxes within the branch premises before the specified cut-off time will be presented for clearing on the same day. The broad time limit / cut - off time for presenting of clearing will be decided by the respective branch head in consultation with Zonal Office based on location of branch / practices, etc. However, such cut-off time limit will be clearly indicated on cheque drop boxes located at branch premises.
-
-
-
-
-
-
 Cheques deposited after the cut-off time and in collection boxes outside the branch premises including off-site ATMs will be presented in the next clearing cycle. As a policy, bank would give credit to the customer account on the day clearing settlement takes place. Withdrawal of amounts so credited would be permitted as per the cheque return schedule of the clearing house.
 (b) Bank branches situated at centers which are not members of any CTS Grid or where no clearing house exists, would present local cheques on drawee banks across the counter and it would be the bank's endeavour to credit the proceeds at the earliest but not later than 3rd working day from the date of deposit by customer.
 3.2. Outstation Cheques
@@ -148,9 +142,6 @@ Cheque truncation is the process of eliminating the flow of physical cheque issu
   Cheque truncation system- Section 131 of Negotiable Instrument Act 1881 ( Amendments)
   Onus of due diligence shifted to the presenting bank in CTS environment
 It shall be the duty of the bank who receives payment based on an electronic image of a truncated cheque held with him, to verify the prima facie genuineness of the cheque to be truncated and any fraud, forgery or tampering apparent on the face of the instrument that can be verified with due diligence and ordinary care as per the guidelines of the NI Act 1881, as amended from time to time.
-
-
-
 
 > In view of the above amendment, the presenting bank takes responsibility for exercise of due diligence. The branches while sending cheques to CTS Scanning Center / Clearing Centre / Hub should ensure the following:
   To exercise due diligence on all instruments
@@ -168,42 +159,19 @@ It shall be the duty of the bank who receives payment based on an electronic ima
   To ensure that physical feel of the instrument meets the usual paper standard used for cheque.
   To ensure that no material alteration visible to naked eye
 3.2.2 Our Branches issue only Payable at Par CTS Standard 2010 cheques to Customers
-3.3.3 Cheque Truncation System (CTS) is presently working at ABC Grid at Delhi, ABC Grid in ABC and ABC Grid in ABC.
+3.3.3 Cheque Truncation System (CTS) is presently working at XYZ Grid at XYZ, XYZ Grid in XYZ and XYZ Grid in XYZ.
 3.3.4 States covered in GRID based CTS-2010 centers:
 
-Grid
-Location
-States Covered
-Northern Grid
-ABC
-NCR of ABC, Haryana, Punjab, Uttar Pradesh , Uttarkhand, Bihar, Rajasthan, Himachal Pradesh, Jharkhand ,Union Territory of Jammu and Kashmir, Union Territory of Ladakh, and the Union Territory of Chandigarh
-Southern Grid
-ABC
-Andhra	Pradesh,	Telangana,	Karnataka,	Kerala, Tamilnadu, Odisha, West Bengal, North Eastern States,
-and the Union Territory of Puducherry.
-Western Grid
-ABC
-Maharashtra,	Goa,	Gujarat,	Madhya	Pradesh	and Chhattisgarh.
 3.4 Non-CTS cheques
 Non CTS cheques will be presented in the clearing house at the prescribed intervals which is presently once in a month on second Wednesday of the month or as decided by RBI, from time to time. In certain categories of cheques, (subject to amendments in guidelines) or instruments demanded by the correspondent Bank or Image Quality Assessment (IQA) failure will be presented in physical form to the drawee Bank.
-
-
-
-
-
 
 3.5 Cheques payable in Foreign Countries
 Cheques payable at foreign centres where the bank has branch operations (or banking operations through a subsidiary, etc.) will be collected through that office. The services of correspondent banks will be utilized in country / centres where the correspondent has presence. Cheques drawn on foreign banks at centres where the bank or its correspondents do not have direct presence will be sent direct to the drawee bank with instructions to credit proceeds to the respective NOSTRO Account of the bank maintained with one of the correspondent banks.
 The time norms for collection and return of the instruments, varies from country to country and place to place within the country where a 'hold period' is prescribed. The due date for providing credit is calculated from date of notional credit in NOSTRO account plus the hold period prescribed for the country.
 Cooling / Hold Period
 
-
 The Bank may consider providing upfront credit by purchasing the instrument, if the conduct of the account has been satisfactory in the past, for a charge at Bank's sole discretion.
 The various articles as detailed in the International Chamber of Commerce, Uniform rules for collection (ICC-522) will be applicable for collection of cheques. The Customer instructing the
-
-
-
-
 
 Bank to perform services shall be bound by and liable to indemnify the Bank against all obligations and responsibilities imposed by foreign laws and usages.
 Customers depositing cheques drawn on foreign centers are expected to be aware of usage / practices and laws related to cheques collection prevailing in drawee countries. Suitable notice may be displayed at branches for this purpose.
@@ -316,8 +284,6 @@ With a view to enforce financial discipline among the customer, prevent misuse o
 (v) Advance accounts viz. Cash Credit, Overdraft Accounts, etc., wherein cheques/ debit mandate viz. ECS/ NECS/ NACH have been returned for financial reasons i.e. "Exceeds Arrangement", the need for continuance or otherwise of these credit facilities and the cheque book facility relating to these accounts should be reviewed by the appropriate authority higher than the sanctioning authority.
 (vi) Notice should be displayed for the information of customers on the notice board within Branch premises and Bank's website that no fresh cheque book will be issued to the customers and account may be considered for closure in the event of dishonour of Cheques/ debit mandate viz. ECS/ NECS/ NACH of value less than Rs.One Crore on FIVE occasions in a particular account due to insufficient funds in a financial year.
 
-
-
 (vii) In the event where cheque is dishonoured on three occasions due to other than financial reason and where customer is at fault, Branch should contact and inform the customer to rectify the irregularity and not to repeat the same in future.
 In the event of discrepancies in the particulars due to which debit mandates are returned, branch should invariably contact and intimate the customers to update the particulars of the account with the respective organization/ service providers
 17.2 Frequent dishonour of Cheques/ Debit Mandates of value of Rs. One Crore and above:
@@ -330,16 +296,7 @@ In the event of discrepancies in the particulars due to which debit mandates are
 18. RECOVERY OF SERVICE CHARGES ON DISHONOUR OF CHEQUE/NACH/ECS
 Recovery of such charges will be ensured as per extant instructions on Service Charges enforce. Returning of Cheque over the counter will also be recorded in the system as rejected transaction and applicable service charges will be levied.
 
-
-
 (vii)
-
-
-
-
-
-
-
 19. MONITORING AND REPORTING:
 19.1 General Operations Department, Head Office will monitor and report to the Audit Committee of the Board every quarter on the position of followings-
 i. Dishonour of cheques of Rs. One Crore and above.
@@ -370,42 +327,8 @@ Reason of return
 Date on which the chq was returned to
 the payee
 Date of actual delivery of chq to bank/payee
-Remar ks
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                             Annexure-2 Format of Letter to be sent to customers on frequent dishonour of Cheque
+Annexure-2 Format of Letter to be sent to customers on frequent dishonour of Cheque
 Registered Letter
 Ref. No.:	Date:
 
@@ -416,7 +339,7 @@ Mr. / Ms. ...............................
  ............................................ Dear Sir/ Madam,
 Re: Un-satisfactory conduct of your Saving/ Current/ Cash Credit/ Overdraft Account No....................................................................................... maintained with	Branch.
 
-      There are instances of frequent dishonour of cheques in your account mentioned above due to financial reason.
+There are instances of frequent dishonour of cheques in your account mentioned above due to financial reason.
 2. You are aware that customer can issue a cheque to the payee only on availability of sufficient funds in the accounts. Please maintain financial discipline and also sufficient balance in the account to honour the issued cheque(s).
 3. Please acknowledge receipt of this communication and confirm in writing within 15 days of receipt of this letter to maintain financial discipline and ensure satisfactory conduct of account.
 4. In case of any further dishonour of cheque due to financial reason will be constrained to us as under -
@@ -429,12 +352,6 @@ Re: Un-satisfactory conduct of your Saving/ Current/ Cash Credit/ Overdraft Acco
 6. In case of any clarification/ guidance/ advice you may contact in person with the branch officials.
 
 Yours Faithfully,
-
-Branch Manager
-...	Branch
-
-
-
 
 Annexure-3
 Final Notice
@@ -458,7 +375,6 @@ Re: Un-satisfactory conduct of your Saving/ Current Account No..................
 
 Our earlier Letter Ref. No..................Dated..........................
 
-
 Please refer to our Letter Ref. No. .............................Dated	advising
 you to maintain sufficient balance in your account while issuing cheque(s) in the above mentioned account.
 
@@ -468,24 +384,10 @@ you to maintain sufficient balance in your account while issuing cheque(s) in th
 
 4. You may submit your justification in writing in this regard, within 15 days of receipt of this letter.
 
-
-
 Thanks You,
-
-
 Yours Faithfully,
-
-
 Branch Manager
-...	Branch
-
-
-
-
-
-
-
-
+Branch
 Annexure- 4
 
 MODEL LIST OF OBJECTIONS
@@ -575,9 +477,6 @@ Paper not received
 Account
 50
 Account closed
-
-
-
 51
 Account transferred to another branch
 52
@@ -652,17 +551,7 @@ Cheque No.(s)..... Amount Rs.. . . . . . . . .
 Date of return: ...................
 
 Signature & Stamp of returning bank .......
-
-
-
-
-
-
-
-
-
-
-                                                                 Annexure - 5 Illustrative but not exhaustive list of objections where customers are not at fault
+Annexure - 5 Illustrative but not exhaustive list of objections where customers are not at fault
 (Applicable for Instrument and Image-based Cheque Clearing as detailed in Annexure D to Uniform Regulations and Rules for Bankers' Clearing Houses)
 
 Code No.
@@ -726,7 +615,6 @@ Other reasons-connectivity failure
 'Payee's a/c Credited' - Stamp required
 92
 Bank excluded
-
 
 Code of Conduct & Ethics and Conflict of Interest Recognition & Management Policy
 
@@ -840,9 +728,6 @@ accordance with the workplace health and safety guidelines. While carrying out o
 11.6.3.6 We must carry out our personal transactions and those of our family members as if they or we were regular customers.
 11.6.3.7 We must not grant loans to ourselves or members of our family or a company in which we or a member of our families have a stake.
 11.6.3.8 	We must not accept any gift, service or perk which might influence our work or decisions. We must not solicit nor encourage giving of gifts or entertainment by an existing or potential customer, consultant or any third party, except if such solicitation is done on behalf of a charitable organization. In such cases, 100% of the net benefits must be remitted to the charitable organization on whose behalf the solicitation was made.
-
-
-
 11.6.3.9 Our loyalty to the Bank governs our behavior and we must ensure that the assets and property safeguarded or under the control of the organization are preserved.
 11.6.3.10 We must not work for our own business or for that of a third party during business hours. We must also minimize activities unrelated to our work such as checking social networks like Facebook or Instagram.
 11.6.3.11 We must abstain from making comments that could tarnish the Bank's image or reputation with customers, employees or the general public. We must avoid mentioning the organization when we express personal opinions. This obligation continues to apply after our employment has ended. Both at work and in our personal activities, we must avoid participating, directly or indirectly, in activities that could compromise the organization's interests, image or reputation.
@@ -938,23 +823,13 @@ Employees must cooperate with any internal or external investigation or audit, o
 26. Review of the Policy :
 
 The Policy will be reviewed after three years except in the light of any statutory requirement. Notwithstanding, the Bank reserves the right to review, modify and amend the policy whenever deemed necessary.
-
-
-
 Annexure 1- Declaration Form
-
-
 DECLARATION 
-
-
-
-    I, hereby, declare that I have read & understood the Code of Conduct & Ethics and Conflict of Interest Recognition & Management Policy and understand my obligations as an employee to, hereby, comply with the said Code, as applicable at all times.
+I, hereby, declare that I have read & understood the Code of Conduct & Ethics and Conflict of Interest Recognition & Management Policy and understand my obligations as an employee to, hereby, comply with the said Code, as applicable at all times.
 
 I confirm, and undertake to abide by the same in letter and spirit.
 
     I am also aware that failure to abide by the above Code of Conduct & Ethics may lead to disciplinary action as per Bank's extant Regulations/Rules.
-
-
 
 Employee Name: 	
 
@@ -980,7 +855,7 @@ BANK OF XYZ PREVENTION OF SEXUAL HARASSMENT AT WORKPLACE POLICY
 
 1.4. The Act was enacted to ensure safe working spaces for women and to build work environments that respect women's right to equality of status and opportunity. Very often situations that start off innocently, end up in inappropriate and unprofessional behaviours. It is important to remember that workplace sexual harassment is sexual, unwelcome and the experience is subjective. It is the impact and not the intent that matters and it almost always occurs in a matrix of power.
 
-1.5. Bank of XYZ, (hereafter referred to as the 'Bank') founded on 07th September, 1906 is a leading Public Sector Bank in XYZ, headquartered at ABC. The Bank is committed to strict compliance of Government of XYZ instructions as advised from time to time, for empowerment of its employees. It has been the endeavour of the Bank to eliminate any form of discrimination and ensure equality, freedom, justice and dignity to all its employees. The employment decisions are made without regard to sex or gender or any other basis prohibited by law. Banks strives to provide conducive and harmonious work environment to guarantee that all employees enjoy equality, dignity and respect at par with others. By doing so, the Bank is empowered and better equipped to develop and deliver services to its customers - both internal and external and thus achieve business excellence.
+1.5. Bank of XYZ, (hereafter referred to as the 'Bank') founded on 07th September, 1906 is a leading Public Sector Bank in XYZ, headquartered at XYZ. The Bank is committed to strict compliance of Government of XYZ instructions as advised from time to time, for empowerment of its employees. It has been the endeavour of the Bank to eliminate any form of discrimination and ensure equality, freedom, justice and dignity to all its employees. The employment decisions are made without regard to sex or gender or any other basis prohibited by law. Banks strives to provide conducive and harmonious work environment to guarantee that all employees enjoy equality, dignity and respect at par with others. By doing so, the Bank is empowered and better equipped to develop and deliver services to its customers - both internal and external and thus achieve business excellence.
 
 1.6. The Chief General Manager / General Manager- Human Resources, Head Office shall be the designated authority with overall responsibility for the effective operation and implementation of this Policy. He / she shall be authorised to lay down / implement operational guidelines issued by the Government of XYZ for betterment of employees as advised from time to time.
 
@@ -1531,28 +1406,8 @@ Name and Signature of the complainant (If applicable) Date:
 Please note: Signature of the Aggrieved Person / Complainant is required on the bottom of every sheet.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 HR POLICY MANUAL
      SECTION 01: WORK ENVIRONMENT & CULTURE CHAPTER 06: PROTECTION AGAINST HARASSMENT POLICY
-
-
-
-
-
-
 
 Private & Confidential - For Bank Use Only
 The information furnished in this document contains restricted and/or privileged information and is intended only for authorized use of the Bank's employees. No part or parts of this document may be used, reproduced or transmitted, in any form or by any means, electronic or mechanical, including recording or the use of any information storage and retrieval system, without written permission of the Bank
@@ -1642,11 +1497,6 @@ Level - II
 * Reversion to a lower post.
 * Reduction to pay.
 * Performance Improvement Plan.
-
-
-
-
-
 Level - III
 * Stoppage of Bonus/Promotion/Increments for specified period of time. Stoppage of any one or all of these can be option.
 * Recovery from the salary of the whole or part of any, pecuniary loss caused to the Bank by the employee / monetary fine.
@@ -1676,52 +1526,3 @@ as an external resource without any linkage in terms of service contract, employ
 Retaliation is in general defined as any kind of negative action against a current or former employee that takes the form of punishment, and creates a hostile, threatening or uncomfortable environment as a result of their reported complaint.
 6.9.13 "Creating a Hostile Environment": Any unwelcome sexual advance, request for sexual favors, or other verbal or physical conduct of a sexual nature, which interferes with an individual's work performance or creates an intimidating, hostile, abusive or offensive work environment; or any discrimination on basis of gender, which may or may not be sexual in nature, but which may embody a discriminatory and prejudicial mind-set or notion resulting in discriminatory behavior on basis of gender.
 The typical "hostile environment" claim, in general, requires finding of a pattern of offensive conduct, however, in cases where the harassment is particularly severe, such as in cases involving physical contact or gender- based discrimination, a single offensive incident will constitute a violation.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
